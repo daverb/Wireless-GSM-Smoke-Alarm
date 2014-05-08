@@ -1,4 +1,4 @@
-Wireless-GSM-Smoke-Alarm - Final Year Engineering Project Material
+Wireless GSM Smoke Alarm - Final Year Engineering Project
 ========================
 
 ###Overview:
